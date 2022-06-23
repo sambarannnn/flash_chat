@@ -2,8 +2,8 @@
 
 A real time instant messaging app where users can sign up and log in to chat. Built using Flutter for Android & iOS.
 
-## Download : 
-[!APK](https://github.com/sambarannnn/flash_chat/blob/master/app-release.apk)
+## Download : [APK](https://github.com/sambarannnn/flash_chat/blob/master/app-release.apk)
+
 
 ## Views
 
