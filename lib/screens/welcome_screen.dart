@@ -29,7 +29,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
     controller.forward();
     controller.addListener(() {
       setState(() {});
-      print(controller.value);
+      // print(controller.value);
     });
   }
 
@@ -74,12 +74,15 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     ],
                   ),
                   child: AnimatedTextKit(
+                    // stopPauseOnTap: true,
                     repeatForever: true,
+                    isRepeatingAnimation: true,
+                    // totalRepeatCount: 2,
                     animatedTexts: [
                       FlickerAnimatedText('FlashChat'),
                     ],
                     onTap: () {
-                      print("Tap Event");
+                      // print("Tap Event");
                     },
                   ),
                 ),

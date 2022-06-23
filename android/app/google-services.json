@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856250703463",
+    "project_id": "flash-chat-abc47",
+    "storage_bucket": "flash-chat-abc47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856250703463:android:16a4dede3d3bf7903ffec2",
+        "android_client_info": {
+          "package_name": "com.sambaran.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856250703463-9gndddql1vh1kjt0cjdo0kjvdolulsje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0AYjRlSNZRw-ZqfR1RZONN7Zr_NP9oDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856250703463-9gndddql1vh1kjt0cjdo0kjvdolulsje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
